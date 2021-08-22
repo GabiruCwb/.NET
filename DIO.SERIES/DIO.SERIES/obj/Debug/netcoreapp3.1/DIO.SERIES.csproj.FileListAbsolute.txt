@@ -1,0 +1,5 @@
+/Users/gabrielabrahao/Projects/DIO.SERIES/DIO.SERIES/obj/Debug/netcoreapp3.1/DIO.SERIES.csproj.AssemblyReference.cache
+/Users/gabrielabrahao/Projects/DIO.SERIES/DIO.SERIES/obj/Debug/netcoreapp3.1/DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielabrahao/Projects/DIO.SERIES/DIO.SERIES/obj/Debug/netcoreapp3.1/DIO.SERIES.AssemblyInfoInputs.cache
+/Users/gabrielabrahao/Projects/DIO.SERIES/DIO.SERIES/obj/Debug/netcoreapp3.1/DIO.SERIES.AssemblyInfo.cs
+/Users/gabrielabrahao/Projects/DIO.SERIES/DIO.SERIES/obj/Debug/netcoreapp3.1/DIO.SERIES.csproj.CoreCompileInputs.cache
